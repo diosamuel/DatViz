@@ -11,11 +11,11 @@ Dosen Pengampu : Ahmad Luky Ramdani S.Komp., M.Kom
 # Making data visualization more efficient and effective: a survey
 
 ## Introduction
-Visualisasi Data mengubah data abstrak menjadi bentuk fisik 
+Visualisasi data sangat penting dalam dunia bisnis yang didorong oleh data saat ini, yang telah banyak digunakan untuk membantu pengambilan keputusan yang terkait erat dengan pendapatan utama banyak perusahaan industri. Visualisasi Data sejatinya berfungsi untuk mengubah data abstrak menjadi bentuk visual fisik yang dapat dipahami dengan mudah. Visualisasi data juga bertujuan untuk menjelaskan data dalam bentuk cerita (storytelling)
 
 ![image](https://github.com/user-attachments/assets/bdff4a88-788a-4736-bf45-e1aa14750bff)
 
-Alur Visualisasi Data  
+Dibawah ini adalah alur pembuatan visualisasi data 
 1. Impor Data berguna untuk mengambil data yang diperlukan dari sumber data yang diinginkan.
 2. Data Preparation untuk mempersiapkan data yang diimpor untuk visualisasi, misalnya dengan menormalkan nilai, memperbaiki entri yang salah, dan menginterpolasi nilai yang hilang.
 3. Data Manipulation adalah untuk memilih data yang akan divisualisasikan (dikenal juga sebagai penyaringan dalam komunitas visualisasi) dan mungkin juga dengan operasi umum lainnya seperti penggabungan dan pengelompokan.
@@ -47,10 +47,24 @@ Secara teori ada 4 kategori, low-level language, high-level language, gui-based 
 - Low-level Languages adalah bahasa tingkat rendah yang mengharuskan user untuk menentukan semua elemen pemetaan.
 - High-level Languages adalah bahasa tingkat tinggi yang mengenkapsulasi detail proses pembuatan visualisasi, seperti fungsi pemetaan, serta beberapa properti untuk tanda-tanda seperti ukuran kanvas, legenda, dan properti lainnya.
 - GUI-Based tools adalah kependekan dari Graphical User Interface yang mana user dapat membuat visualisasi data langsung menggunakan fitur dan menu yang "tampak" seperti drag an drop, dan lain-lain. Contoh software GUI seperti Qlik, Excel, Google Sheet, PowerBI dan lain-lain
-- 
+
 ## Efficient approaches for data visualization
 
+Dalam pembuatan visualisasi data dibutuhkan pengambilan dan integrasi data yang efisien agar mempermudah pembuatan visualisasi, ada beberapa cara untuk membuat visualisasi yang efisien, seperti
+- Query Translation
+- Integrating Visualization Systems with DBMS
+- Column Store
+- Indexes
+- Parallel Computation
+- Prediction and Prefetching
+
 ## Visualization recommendation
+Proses visualisasi data bersifat iteratif, dan banyak contoh visualisasi yang mungkin untuk dibuat. 
+Berikut adalah cara untuk memilih mana visualisasi yang cocok dan bagus pada masalah tertentu:
 
-## Other research directions
 
+- Perankingan
+Sistem rekomendasi visualisasi perlu terlebih dahulu membuat daftar semua visualisasi yang mungkin, lalu merekomendasikan visualisasi dengan peringkat tertinggi. Tetapi sebagai user harus mempertimbangkan kombinasi beberapa faktor, seperti memilih kolom yang akan divisualisasikan, mengubah data dan lain-lain karena pilihan bentuk visualisasi data yang banyak
+
+- Pruning Meaningless Visualizations
+  
