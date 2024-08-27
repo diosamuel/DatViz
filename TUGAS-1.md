@@ -13,6 +13,15 @@ Dosen Pengampu : Ahmad Luky Ramdani S.Komp., M.Kom
 ## Introduction
 Visualisasi Data mengubah data abstrak menjadi bentuk fisik 
 
+![image](https://github.com/user-attachments/assets/bdff4a88-788a-4736-bf45-e1aa14750bff)
+
+Alur Visualisasi Data  
+1. Impor Data berguna untuk mengambil data yang diperlukan dari sumber data yang diinginkan.
+2. Data Preparation untuk mempersiapkan data yang diimpor untuk visualisasi, misalnya dengan menormalkan nilai, memperbaiki entri yang salah, dan menginterpolasi nilai yang hilang.
+3. Data Manipulation adalah untuk memilih data yang akan divisualisasikan (dikenal juga sebagai penyaringan dalam komunitas visualisasi) dan mungkin juga dengan operasi umum lainnya seperti penggabungan dan pengelompokan.
+4. Mapping adalah untuk memetakan data yang diperoleh dari proses di atas ke bentuk geometris (misalnya, titik dan garis), bersama dengan atributnya (misalnya, warna, posisi, dan ukuran).
+5. Rendering adalah untuk mengubah data geometris di atas menjadi representasi visual.
+   
 ### Visualization specifications
 
 Secara umum, visualisasi data terdiri dari tiga spesifikasi: data, visual, dan pemetaan antara keduanya.
