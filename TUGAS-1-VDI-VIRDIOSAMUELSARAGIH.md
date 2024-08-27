@@ -31,7 +31,7 @@ Berdasarkan alur, ada 3 hal penting yang membuat visualisasi data lebih efektif 
 - **Data Visualization Recommendation**
 Menentukan visualisasi dengan tepat sangat sulit, karena pemahaman tentang data yang akan divisualisasikan, cerita yang akan disampaikan, dan cara memvisualisasikan harus dilakukan uji pemahaman langsung kepada pengguna. Oleh karena itu, penting agar sistem visualisasi dapat secara cerdas membimbing pengguna dengan memberikan rekomendasi.
 
-### Visualization specifications
+## Visualization specifications
 
 Secara umum, visualisasi data terdiri dari tiga spesifikasi: data, visual, dan pemetaan antara keduanya.
 
