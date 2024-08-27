@@ -11,7 +11,7 @@ Dosen Pengampu : Ahmad Luky Ramdani S.Komp., M.Kom
 # Making data visualization more efficient and effective: a survey
 
 ## Introduction
-Visualisasi data sangat penting dalam dunia bisnis yang didorong oleh data saat ini, yang telah banyak digunakan untuk membantu pengambilan keputusan yang terkait erat dengan pendapatan utama banyak perusahaan industri. Visualisasi Data sejatinya berfungsi untuk mengubah data abstrak menjadi bentuk visual fisik yang dapat dipahami dengan mudah. Visualisasi data juga bertujuan untuk menjelaskan data dalam bentuk cerita (storytelling)
+Visualisasi data sangat penting dalam dunia bisnis yang didukung oleh data saat ini, yang telah banyak digunakan untuk membantu pengambilan keputusan yang terkait erat dengan pendapatan utama banyak perusahaan. Visualisasi Data sejatinya berfungsi untuk mengubah data abstrak menjadi bentuk visual fisik yang dapat dipahami dengan mudah. Visualisasi data juga bertujuan untuk menjelaskan data dalam bentuk cerita (storytelling)
 
 <img src="https://github.com/user-attachments/assets/bdff4a88-788a-4736-bf45-e1aa14750bff" width=1000/>
 
